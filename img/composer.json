@@ -1,0 +1,11 @@
+{
+  "require": {
+    "wixel/gump": "dev-master",
+    "intervention/image":"dev-master"
+
+  },
+
+  "autoload": {
+    "psr-4": {}
+  }
+}
